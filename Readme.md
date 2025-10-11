@@ -25,19 +25,6 @@ Before starting, make sure you have:
 2. Open **File Manager**.
 3. Navigate to your FA installation folder (usually `public_html` or `public_html/fa`).
 4. Select all files and folders:
-```
-
-config.php
-config_db.php
-/company/
-/includes/
-/modules/
-/themes/
-/reporting/
-/tmp/
-/backup/
-
-```
 5. Click **Compress** → choose **ZIP**.
 6. Download the ZIP file to your computer.
 
