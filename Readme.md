@@ -48,8 +48,8 @@ Before starting, make sure you have:
 ## 🏗️ Step 2 — Create a New Database on the New Hosting
 
 1. Log in to your **new hosting cPanel**.
-2. Go to **MySQL® Databases**.
-3. Under **Create New Database**, type a name (e.g. `myfa_db`).
+2. Go to **MySQL® Databases "Manage My Databases"**.
+3. Under **Create New Database**, type a name same as old one (e.g. `myfa_db`).
 4. Under **Add New User**, create:
 ```
 
